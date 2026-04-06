@@ -9,6 +9,11 @@ Covers 12 rooms, supporting both Manual and Auto modes via PIR motion sensors.
 
 ---
 
+## Demo Video
+
+[![Smart Light Control Demo](https://img.youtube.com/vi/WDzzWuzu3pU/0.jpg)](https://www.youtube.com/watch?v=WDzzWuzu3pU)
+
+
 ## Architecture
 
 <img width="612" height="387" alt="Image" src="https://github.com/user-attachments/assets/f225e8a9-65c7-4bfe-9bb7-73cad27d438b" />
